@@ -1,14 +1,14 @@
 # Hackathon 2 – Estrutura de Dados: Árvores e Ordenação
 
 ## Equipe
-- Nome da equipe: [PREENCHER]
-- Integrantes: [PREENCHER]
-- Responsabilidades: [PREENCHER quem implementou, revisou e testou cada desafio]
+- Nome da equipe: [Normandmax]
+- Integrantes: [Gabriel Dos Santos Oliveira]
+- Responsabilidades: [Gabriel Dos Santos Oliveira]
 
 ## Ambiente
 - Linguagem: C++17
 - Compilador: g++ (GCC)
-- Sistema utilizado: [PREENCHER Windows/Linux e versão]
+- Sistema utilizado:  Windows 11]
 
 ## Organização
 - `desafios/01` até `desafios/15`: um executável independente por desafio.
